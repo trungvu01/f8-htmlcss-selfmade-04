@@ -108,7 +108,7 @@ input {
 /* Responsive */
 @media (max-width: 576px) {
     html {
-        user-select: none;
+        pointer-events: none;
     }
 
     .header__inner {
