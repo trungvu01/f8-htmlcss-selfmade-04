@@ -107,10 +107,6 @@ input {
 
 /* Responsive */
 @media (max-width: 576px) {
-    html {
-        pointer-events: none;
-    }
-
     .header__inner {
         justify-content: unset;
         border-bottom: 1px solid #d6d3e2;
