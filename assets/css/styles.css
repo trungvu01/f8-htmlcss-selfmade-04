@@ -260,7 +260,7 @@ input {
 }
 
 /* Responsive */
-@media (max-width: 390px) {
+@media (max-width: 420px) {
     /* Common */
     .btn {
         width: 14.7rem;
@@ -447,7 +447,7 @@ input {
     .hero__decor--right {
         width: 54.3rem;
         height: 40.2rem;
-        left: -37%;
+        left: -22%;
         bottom: -3rem;
         object-fit: cover;
         object-position: center;
